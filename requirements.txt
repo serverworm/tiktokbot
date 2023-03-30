@@ -1,0 +1,4 @@
+selenium
+chromedriver-binary
+pyfiglet==0.7.5
+chromedriver-autoinstaller
